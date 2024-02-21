@@ -1,0 +1,20 @@
+.adContainer{
+    border:solid #b9d0ba;
+    background-color: #b9d0ba;
+    height: 10px
+    display: flex;
+    padding:15px;
+    justify-content: space-evenly;    
+
+}
+.leftArrow{
+/* bordersolid red */
+height: 20px;
+
+}
+
+.adTxt{
+/* bordersolid red */
+height: 20px;
+
+}
