@@ -1,20 +1,39 @@
+
 .adContainer{
-    border:solid #b9d0ba;
-    background-color: #b9d0ba;
-    height: 10px
-    display: flex;
+    border:solid #B9D0BA ;
+   background-color: #B9D0BA;
+    display: flex;  
     padding:15px;
-    justify-content: space-evenly;    
-
+    justify-content: space-evenly;
 }
-.leftArrow{
-/* bordersolid red */
-height: 20px;
 
+.leftArrow{
+   /* border:solid red; */
+   height:20px;
 }
 
 .adTxt{
-/* bordersolid red */
-height: 20px;
+   /* border:solid blue; */
+   height:30px;
+}
 
+.adLink{
+   /* border:solid green; */
+   height:30px;
+}
+
+.rightArrow{
+   /* border:solid red; */
+   height:20px;
+}
+
+.navbar{
+   /* border:solid blue; */
+   padding:10px;
+   display:flex;
+   justify-content: space-between;
+}
+
+.mainPic{
+   width:100%;
 }
